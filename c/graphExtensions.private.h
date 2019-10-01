@@ -13,7 +13,7 @@ See the LICENSE.TXT file for licensing information.
 extern "C" {
 #endif
 
-typedef struct
+typedef struct graphExtension
 {
     int  moduleID;
     void *context;
